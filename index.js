@@ -2,4 +2,4 @@
         n += n ;
         return n;
     }
-    console.log(digit(5));
+    console.log(digit(5))
